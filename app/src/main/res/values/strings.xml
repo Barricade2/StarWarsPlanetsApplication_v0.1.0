@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">StarWarsPlanetsApp</string>
+    <string name="empty_img">Картинка</string>
+    <string name="refresh_songs_list">Обновить</string>
+    <string name="loading">Идёт загрузка...</string>
+    <string name="namePl">Наименование:</string>
+    <string name="popl">Население:</string>
+    <string name="orbit">Орбитальный период:</string>
+    <string name="rotat">Период обращение:</string>
+</resources>
